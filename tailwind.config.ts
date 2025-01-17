@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "#0057B8",
+        secondary: "#58D68D",
+      },
+      strokeWidth: {
+        "3": "3px",
       },
     },
   },
